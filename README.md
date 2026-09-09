@@ -57,21 +57,6 @@ const me = {
 
 ---
 
-### 📊 Статистика
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Todd-H0ward&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todd-H0ward&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
-</div>
----
-
-<div align="center">
-⭐️ From [Todd-H0ward](https://github.com/Todd-H0ward)
-
-</div>
-
----
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="./assets/rickroll.gif" width="100%" height="480" alt="Live demo" />
+  <img src="./assets/rickroll.gif" width="100%" height="480" alt="Live demo" style="object-fit: cover" />
 </a>
