@@ -6,6 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=Todd-H0ward&style=flat-square&color=6366f1" alt="profile views" />
 <a href="https://t.me/toddh0ward"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
+
 ---
 
 ### Обо мне
