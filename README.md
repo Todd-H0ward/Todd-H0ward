@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Todd-H0ward">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%2B+TypeScript+enjoyer;Pixel-perfect+%26+60+FPS;%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%2C+%D0%B0+%D0%BD%D0%B5+%D0%BA%D0%BE%D1%81%D1%82%D1%8B%D0%BB%D0%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=520&lines=Frontend+Developer;React+%2B+TypeScript+enjoyer;Pixel-perfect+%26+60+FPS;%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%2C+%D0%B0+%D0%BD%D0%B5+%D1%85%2A%2A%D0%BD%D1%8E" alt="Typing SVG" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Todd-H0ward&style=flat-square&color=6366f1" alt="profile views" />
