@@ -4,8 +4,7 @@
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Todd-H0ward&style=flat-square&color=6366f1" alt="profile views" />
-<a href="https://t.me/Todd_H0ward"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://linkedin.com/in/Todd-H0ward"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/toddh0ward"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 ---
 
@@ -25,6 +24,7 @@ const me = {
 ### 🛠 Стек
 
 <div align="center">
+
 **Core**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,6 +55,8 @@ const me = {
 
 </div>
 
+---
+
 ### 📊 Статистика
 
 <div align="center">
@@ -71,5 +73,5 @@ const me = {
 ---
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="./assets/rickroll.gif" width="480" alt="Live demo" />
+  <img src="./assets/rickroll.gif" width="100%" height="480" alt="Live demo" />
 </a>
